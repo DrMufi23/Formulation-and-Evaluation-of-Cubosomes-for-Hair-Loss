@@ -1,1 +1,2 @@
 # Formulation-and-Evaluation-of-Cubosomes-for-Hair-Loss
+-A B.Pharm final-year project focused on the design and development of cubosomes as nanocarriers for dual-loaded therapy using Minoxidil and Saw Palmetto Oil for the prevention of hair loss. The project included formulation optimization using Box-Behnken Design, characterization (particle size, zeta potential, PDI), entrapment efficiency, and in vitro release studies. Demonstrated promising sustained release and therapeutic potential of lipid-based cubosomal delivery systems.
